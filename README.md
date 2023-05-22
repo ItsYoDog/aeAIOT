@@ -15,8 +15,14 @@ To install ae's All In One Tool, download the installer from the releases page a
 
 ### Usage
 
-Once installed, launch ae's All In One Tool and explore the various features and options. Please note that some features may require elevated privileges, so be sure to run the tool as an administrator (SuperUser or SUDO) if needed.
-_The program is changed constantly and the above instructions may not be upt to date!_
+Once installed, launch ae's All In One Tool (AIOT.sh) in the terminal:
+
+**Linux:** `sh AIOT.sh`
+
+**Windows:** _Not supported_
+
+The program should now start so you can explore the various features and options. Please note that some features may require elevated privileges, so be sure to run the tool as an administrator (SuperUser `SU` or SUDO) if needed.
+_The program is being changed constantly and the above instructions may not be up to date!_
 
 ### Contributing
 **First of all, thanks for showing interest in the project!**

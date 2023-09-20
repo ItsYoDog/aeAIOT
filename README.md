@@ -9,22 +9,26 @@ This tool allows you to quickly edit values without wasting time navigating dire
 
 This project is licensed under the GNU Affero General Public License v3.0. Please see the `LICENSE` file for more information.
 
-### Installation
+# Installation
 
-To install ae's All In One Tool, download the installer from the releases page and run it on your Linux machine.
+To install ae's All In One Tool, download the installer from the releases page and run it on your Windows machine.
 
-### Usage
+## Requirements
+-Must have GCC/G++ globally installed (working in any folder)
+-Must have Python installed
+
+## Usage
 
 Once installed, launch ae's All In One Tool (AIOT.sh) in the terminal:
 
 **Linux:** _Not supported_
 
-**Windows:** 
+**Windows:** './installer.py' 
 
 The program should now start so you can explore the various features and options. Please note that some features may require elevated privileges, so be sure to run the tool as an administrator if needed.
 _The program is being changed constantly and the above instructions may not be up to date!_
 
-### Contributing
+# Contributing
 **First of all, thanks for showing interest in the project!**
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request. You can also submit bug reports or feature requests through the issues page. Once you made your edits, make a push request to get the code checked and pushed to the DEV branch.

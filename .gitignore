@@ -31,9 +31,5 @@
 *.out
 *.app
 
-#folders
-.ccls-cache
 
-#replit
-.replit
-replit.nix
+

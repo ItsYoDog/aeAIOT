@@ -11,7 +11,7 @@ This project is licensed under the GNU Affero General Public License v3.0. Pleas
 
 # Installation
 
-To install ae's All In One Tool, download the installer from the releases page and run it on your Windows machine.
+To install ae's All In One Tool, download the installer from the releases page and run it on your Linux machine.
 
 ## Requirements
 -Must have GCC/G++ globally installed (working in any folder)
